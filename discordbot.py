@@ -397,7 +397,7 @@ async def loop():
     
     if now == '14:15':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 100 @JPYN member)
+        await channel.send('rsoak 100 @JPYN member')
         
     if now == '14:16':
         channel = client.get_channel(CHANNEL_ID)
