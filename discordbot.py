@@ -54,6 +54,18 @@ async def loop():
     if now == '00:18':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
+        
+    if now == '00:59':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('rsoak 10') 
+        
+    if now == '01:00':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('rsoak 10') 
+        
+    if now == '01:01':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
 
     if now == '01:15':
         channel = client.get_channel(CHANNEL_ID)
