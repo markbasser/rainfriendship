@@ -51,7 +51,7 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 10') 
         
-     if now == '00:18':
+    if now == '00:18':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
 
@@ -121,7 +121,7 @@ async def loop():
     
     if now == '03:31':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475> )  
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475> ')  
     
     if now == '03:42':
         channel = client.get_channel(CHANNEL_ID)
@@ -478,6 +478,7 @@ async def on_message(message):
         # リアクションアイコンを付けたい
         q = await message.channel.send(" /info 29coin ")
         [await q.add_reaction(i) for i in ('⭕', '🔑')]  # for文の内包表記 
+
 
 # Botの起動とDiscordサーバーへの接続
 client.run(token)
