@@ -27,49 +27,33 @@ async def loop():
     # 現在の時刻
     now = datetime.now().strftime('%H:%M')
     
-    if now == '00:26':
+    if now == '00:01':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member') 
-    
-    if now == '00:30':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')  
-    
-    if now == '00:31':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')  
+        await channel.send('rsoak 10') 
 
-    if now == '00:32':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
-
-    if now == '00:33':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
-
-    if now == '00:33':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')  
-  
-    if now == '00:34':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')  
-    
-    if now == '00:35':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
-
-    if now == '00:37':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
-
-    if now == '00:38':
+    if now == '00:10':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:pos:727132210917933067> ⛈ <:pos:727132210917933067>')         
         
-    if now == '00:39':
+    if now == '00:12':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:pos:727132210917933067> <:getoken:727508044619055174> <:BEAN:727155584377290853>')     
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
+        
+    if now == '00:15':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('rsoak 10') 
+        
+    if now == '00:16':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('rsoak 10') 
+        
+    if now == '00:17':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('rsoak 10') 
+        
+     if now == '00:18':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
 
     if now == '01:15':
         channel = client.get_channel(CHANNEL_ID)
@@ -110,18 +94,6 @@ async def loop():
     if now == '03:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:pos:727132210917933067> <:getoken:727508044619055174> <:BEAN:727155584377290853>')
-
-    if now == '03:13':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!beantip flood 0.1 @JPYN member')
-        
-    if now == '03:14':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!gettip flood 100 @JPYN member')
-        
-    if now == '03:15':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member') 
         
     if now == '03:25':
         channel = client.get_channel(CHANNEL_ID)
@@ -129,43 +101,27 @@ async def loop():
 
     if now == '03:26':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')      
+        await channel.send('rsoak 50')      
         
     if now == '03:27':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')     
+        await channel.send('rsoak 50 @JPYN member')     
         
     if now == '03:28':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')     
+        await channel.send('rsoak 50 @JPYN member')     
          
     if now == '03:29':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')   
+        await channel.send('rsoak 50 @JPYN member')   
         
     if now == '03:30':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!gettip flood 100 @JPYN member') 
+        await channel.send('rsoak 50 @JPYN member') 
     
     if now == '03:31':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!gettip flood 100 @JPYN member')  
-
-    if now == '03:32':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!gettip flood 100 @JPYN member')    
-    
-    if now == '03:33':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!gettip flood 100 @JPYN member') 
-            
-    if now == '03:34':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
-    
-    if now == '03:35':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475> )  
     
     if now == '03:42':
         channel = client.get_channel(CHANNEL_ID)
@@ -197,23 +153,7 @@ async def loop():
     
     if now == '05:30':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
-        
-    if now == '05:31':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')    
-        
-    if now == '06:00':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
-    
-    if now == '06:30':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')   
-   
-    if now == '07:00':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475> ')
   
     if now == '07:18':
         channel = client.get_channel(CHANNEL_ID)
@@ -225,27 +165,11 @@ async def loop():
 
     if now == '08:02':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
+        await channel.send('rsoak 50 @JPYN member')
      
     if now == '08:30':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:goodluck:724101036255608852> ')    
-    
-    if now == '08:31':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
-
-    if now == '08:45':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
-        
-    if now == '08:46':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
-    
-    if now == '08:47':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
       
     if now == '09:00':
         channel = client.get_channel(CHANNEL_ID)
@@ -253,16 +177,8 @@ async def loop():
 
     if now == '09:25':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')
         
-    if now == '09:30':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
-   
-    if now == '09:55':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
-
     if now == '09:57':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://media.discordapp.net/attachments/701765831268368474/701767349828714606/hg.png ') 
@@ -273,7 +189,7 @@ async def loop():
         
     if now == '10:29':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('@here <:gal_p:733138011109326940> After 2min, I”ll ☔Rain a little... ') 
+        await channel.send('@here <:gal_p:733138011109326940> I”ll ☔Rain a little... ') 
      
     if now == '10:29':
         channel = client.get_channel(CHANNEL_ID)
@@ -285,23 +201,19 @@ async def loop():
      
     if now == '10:32':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')
     
     if now == '10:33':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')  
+        await channel.send('rsoak 50 @JPYN member')  
 
     if now == '10:34':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
+        await channel.send('rsoak 50 @JPYN member')
     
     if now == '10:35':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member') 
-        
-    if now == '10:36':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')          
+        await channel.send('rsoak 50 @JPYN member')  
       
     if now == '10:37':
         channel = client.get_channel(CHANNEL_ID)
@@ -317,23 +229,23 @@ async def loop():
     
     if now == '12:05':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('@everyone <:hello1:713004241131667528> Rain<:rain:699585875687899247>is 1min later.<:good01:699581068285706301>')  
+        await channel.send('@everyone <:hello1:713004241131667528>')  
 
     if now == '12:30':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member ')
+        await channel.send('rsoak 50 @JPYN member')
 
     if now == '12:32':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!gettip flood 100 @JPYN member')
+        await channel.send('rsoak 50 @JPYN member')
 
     if now == '12:34':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!beantip flood 0.1 @JPYN member')
+        await channel.send('rsoak 50 @JPYN member')
 
     if now == '12:37':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:pos:727132210917933067> <:getoken:727508044619055174> <:BEAN:727155584377290853>') 
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475> ') 
     
     if now == '12:38':
         channel = client.get_channel(CHANNEL_ID)
@@ -349,7 +261,7 @@ async def loop():
    
     if now == '13:15':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member ')  
+        await channel.send('<:jpxdis1:710400520434745425> <:jpxdis1:710400520434745425> <:jpxdis1:710400520434745425>')  
         
     if now == '13:16':
         channel = client.get_channel(CHANNEL_ID)
@@ -365,11 +277,11 @@ async def loop():
     
     if now == '13:35':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
+        await channel.send('<:jpxdis1:710400520434745425> <:jpxdis1:710400520434745425> <:jpxdis1:710400520434745425>')
     
     if now == '13:37':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')
+        await channel.send('rsoak 50 @JPYN member')
     
     if now == '13:45':
         channel = client.get_channel(CHANNEL_ID)
@@ -426,30 +338,14 @@ async def loop():
     if now == '17:45':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:pos:727132210917933067> <:getoken:727508044619055174> <:BEAN:727155584377290853>')
-    
-    if now == '17:46':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')                         
      
-    if now == '17:48':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip soak 100 @JPYN member')                         
-                                                                 
     if now == '18:30':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:pos:727132210917933067> <:getoken:727508044619055174> <:BEAN:727155584377290853> ')
         
     if now == '18:35':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:tipcc1:721309274328006676> <:tipcc1:721309274328006676> <:tipcc1:721309274328006676>') 
-    
-    if now == '19:30':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member ')  
-
-    if now == '20:00':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member ')        
+        await channel.send('<:tipcc1:721309274328006676> <:tipcc1:721309274328006676> <:tipcc1:721309274328006676>')    
         
     if now == '20:40':
         channel = client.get_channel(CHANNEL_ID)
@@ -461,7 +357,7 @@ async def loop():
 
     if now == '21:30':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member ')  
+        await channel.send('rsoak 50 @JPYN member ')  
         
     if now == '22:00':
         channel = client.get_channel(CHANNEL_ID)
@@ -481,7 +377,7 @@ async def loop():
     
     if now == '23:58':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('!postip flood 100 @JPYN member')
+        await channel.send('rsoak 50 @JPYN member')
         
 #ループ処理実行
 loop.start()
