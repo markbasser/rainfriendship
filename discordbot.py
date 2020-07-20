@@ -29,15 +29,15 @@ async def loop():
     
     if now == '00:01':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 200') 
 
     if now == '00:02':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 200') 
 
     if now == '00:03':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77')
+        await channel.send('rsoak 500')
         
     if now == '00:04':
         channel = client.get_channel(CHANNEL_ID)
@@ -53,7 +53,7 @@ async def loop():
     
     if now == '00:11':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 500') 
     
     if now == '00:12':
         channel = client.get_channel(CHANNEL_ID)
@@ -61,15 +61,15 @@ async def loop():
         
     if now == '00:15':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 200') 
         
     if now == '00:16':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 200') 
         
     if now == '00:17':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 500') 
         
     if now == '00:18':
         channel = client.get_channel(CHANNEL_ID)
@@ -77,11 +77,11 @@ async def loop():
         
     if now == '00:59':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7') 
+        await channel.send('rsoak 200') 
         
     if now == '01:00':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7') 
+        await channel.send('rsoak 777') 
         
     if now == '01:01':
         channel = client.get_channel(CHANNEL_ID)
@@ -105,19 +105,19 @@ async def loop():
     
     if now == '01:32':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
     
     if now == '01:33':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')  
+        await channel.send('rsoak 777 @JPYN member')  
     
     if now == '01:34':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')  
+        await channel.send('rsoak 777 @JPYN member')  
         
     if now == '02:10':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 100 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
         
     if now == '02:11':
         channel = client.get_channel(CHANNEL_ID)
@@ -141,23 +141,23 @@ async def loop():
 
     if now == '03:26':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7')      
+        await channel.send('rsoak 77')      
         
     if now == '03:27':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')     
+        await channel.send('rsoak 77 @JPYN member')     
         
     if now == '03:28':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')     
+        await channel.send('rsoak 777 @JPYN member')     
          
     if now == '03:29':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')   
+        await channel.send('rsoak 777 @JPYN member')   
         
     if now == '03:30':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member') 
+        await channel.send('rsoak 777 @JPYN member') 
     
     if now == '03:31':
         channel = client.get_channel(CHANNEL_ID)
@@ -209,11 +209,11 @@ async def loop():
         
     if now == '05:30':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 777') 
         
     if now == '05:31':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 777') 
 
     if now == '05:33':
         channel = client.get_channel(CHANNEL_ID)
@@ -221,7 +221,7 @@ async def loop():
   
     if now == '06:01':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 777') 
     
     if now == '06:02':
         channel = client.get_channel(CHANNEL_ID)
@@ -233,7 +233,7 @@ async def loop():
         
     if now == '06:04':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
         
     if now == '06:05':
         channel = client.get_channel(CHANNEL_ID)
@@ -257,11 +257,11 @@ async def loop():
         
     if now == '08:03':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 777') 
     
     if now == '08:04':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 777') 
         
     if now == '08:30':
         channel = client.get_channel(CHANNEL_ID)
@@ -309,7 +309,7 @@ async def loop():
 
     if now == '10:32':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 500') 
 
     if now == '10:33':
         channel = client.get_channel(CHANNEL_ID)
@@ -321,11 +321,11 @@ async def loop():
 
     if now == '10:35':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
     
     if now == '10:36':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')  
+        await channel.send('rsoak 777 @JPYN member')  
       
     if now == '10:37':
         channel = client.get_channel(CHANNEL_ID)
@@ -357,7 +357,7 @@ async def loop():
         
     if now == '12:07':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
         
     if now == '12:08':
         channel = client.get_channel(CHANNEL_ID)
@@ -377,11 +377,11 @@ async def loop():
 
     if now == '12:34':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
 
     if now == '12:35':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77')
+        await channel.send('rsoak 777')
 
     if now == '12:36':
         channel = client.get_channel(CHANNEL_ID)
@@ -417,15 +417,15 @@ async def loop():
         
     if now == '13:18':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member')
+        await channel.send('rsoak 500 @JPYN member')
         
     if now == '13:19':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
         
     if now == '13:20':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
         
     if now == '13:21':
         channel = client.get_channel(CHANNEL_ID)
@@ -449,7 +449,7 @@ async def loop():
     
     if now == '13:37':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
     
     if now == '13:45':
         channel = client.get_channel(CHANNEL_ID)
@@ -473,7 +473,7 @@ async def loop():
    
     if now == '14:14':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member')      
+        await channel.send('rsoak 777 @JPYN member')      
     
     if now == '14:15':
         channel = client.get_channel(CHANNEL_ID)
@@ -501,7 +501,7 @@ async def loop():
 
     if now == '15:57':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 777') 
 
     if now == '15:58':
         channel = client.get_channel(CHANNEL_ID)
@@ -509,7 +509,7 @@ async def loop():
 
     if now == '15:59':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 777') 
 
     if now == '16:00':
         channel = client.get_channel(CHANNEL_ID)
@@ -521,7 +521,7 @@ async def loop():
     
     if now == '17:02':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 777') 
       
     if now == '17:45':
         channel = client.get_channel(CHANNEL_ID)
@@ -537,7 +537,7 @@ async def loop():
         
     if now == '18:59':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77') 
+        await channel.send('rsoak 500') 
         
     if now == '19:00':
         channel = client.get_channel(CHANNEL_ID)
@@ -557,11 +557,11 @@ async def loop():
         
     if now == '21:31':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member ') 
+        await channel.send('rsoak 500 @JPYN member ') 
         
     if now == '21:32':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member ')  
+        await channel.send('rsoak 777 @JPYN member ')  
         
     if now == '21:33':
         channel = client.get_channel(CHANNEL_ID)
@@ -589,7 +589,7 @@ async def loop():
     
     if now == '23:58':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77.7 @JPYN member')
+        await channel.send('rsoak 777 @JPYN member')
         
 #ループ処理実行
 loop.start()
