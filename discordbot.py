@@ -49,7 +49,11 @@ async def loop():
 
     if now == '00:06':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:pos:727132210917933067> ⛈ <:pos:727132210917933067>')         
+        await channel.send('<:pos:727132210917933067> ⛈ <:pos:727132210917933067>')   
+        
+    if now == '00:09':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> ')  
     
     if now == '00:11':
         channel = client.get_channel(CHANNEL_ID)
@@ -74,6 +78,10 @@ async def loop():
     if now == '00:18':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
+        
+    if now == '00:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
         
     if now == '00:59':
         channel = client.get_channel(CHANNEL_ID)
@@ -114,6 +122,18 @@ async def loop():
     if now == '01:34':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 777 @JPYN member')  
+             
+    if now == '01:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+
+    if now == '01:49':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+
+    if now == '01:56':
+        channel = client.get_channel(739438637661421579)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
         
     if now == '02:10':
         channel = client.get_channel(CHANNEL_ID)
@@ -130,6 +150,10 @@ async def loop():
     if now == '03:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:pos:727132210917933067> <:getoken:727508044619055174> <:BEAN:727155584377290853>')
+        
+    if now == '03:10':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
         
     if now == '03:24':
         channel = client.get_channel(CHANNEL_ID)
@@ -179,6 +203,18 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:bye:699863270802325604>See you!またね👋')  
         
+    if now == '03:50':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+
+    if now == '03:51':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+
+    if now == '04:15':
+        channel = client.get_channel(739438637661421579)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
+        
     if now == '04:31':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://media.tenor.com/images/c5f2a0c3417e2ca71499650d107f538b/tenor.gif') 
@@ -214,10 +250,22 @@ async def loop():
     if now == '05:31':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 777') 
-
+ 
+    if now == '05:32':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+          
     if now == '05:33':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475> ')
+
+    if now == '05:49':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+
+    if now == '05:56':
+        channel = client.get_channel(739438637661421579)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
   
     if now == '06:01':
         channel = client.get_channel(CHANNEL_ID)
@@ -238,6 +286,10 @@ async def loop():
     if now == '06:05':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://media.tenor.com/images/c5f2a0c3417e2ca71499650d107f538b/tenor.gif') 
+        
+    if now == '06:50':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
 
     if now == '07:18':
         channel = client.get_channel(CHANNEL_ID)
@@ -250,6 +302,18 @@ async def loop():
     if now == '07:25':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://cdn.discordapp.com/attachments/698482526565564436/700566115897835571/jpyn-rain.gif') 
+        
+    if now == '07:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+
+    if now == '07:49':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+
+    if now == '07:56':
+        channel = client.get_channel(739438637661421579)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
 
     if now == '08:02':
         channel = client.get_channel(CHANNEL_ID)
@@ -278,6 +342,10 @@ async def loop():
     if now == '09:26':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://media.tenor.com/images/c5f2a0c3417e2ca71499650d107f538b/tenor.gif') 
+        
+    if now == '09:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
         
     if now == '09:57':
         channel = client.get_channel(CHANNEL_ID)
@@ -339,6 +407,18 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://cdn.discordapp.com/attachments/698482526565564436/700566115897835571/jpyn-rain.gif') 
         
+    if now == '10:45':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+        
+    if now == '10:49':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:hello:741989920771538944> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+
+    if now == '10:56':
+        channel = client.get_channel(739438637661421579)
+        await channel.send('<:hello:741989920771538944> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
+        
     if now == '11:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('🥳 <:yeah1:721319707482914877>')
@@ -346,6 +426,10 @@ async def loop():
     if now == '11:38':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('...⚡...When you receive a Rain or Tip, thank you in text or stamp!<:ty:721639183432548394> ') 
+        
+    if now == '11:47':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
     
     if now == '12:05':
         channel = client.get_channel(CHANNEL_ID)
@@ -398,6 +482,10 @@ async def loop():
     if now == '12:39':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:otsukare:722438703410053160> <:happy:723835203717562418> <:ty:721639183432548394> ')
+        
+    if now == '12:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
       
     if now == '13:14':
         channel = client.get_channel(CHANNEL_ID)
@@ -450,6 +538,10 @@ async def loop():
     if now == '13:37':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 777 @JPYN member')
+        
+    if now == '13:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
     
     if now == '13:45':
         channel = client.get_channel(CHANNEL_ID)
@@ -485,7 +577,23 @@ async def loop():
         
     if now == '14:17':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('When you receive a Rain or Tip, thank you in text or stamp!⭐ \n <:cong:719889728828342302> <:yeah1:721319707482914877> ')   
+        await channel.send('When you receive a Rain or Tip, thank you in text or stamp!⭐ \n <:cong:719889728828342302> <:yeah1:721319707482914877> ') 
+        
+    if now == '14:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+
+    if now == '14:45':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>') 
+
+    if now == '14:49':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:nicewave:741982210630090763> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+
+    if now == '14:56':
+        channel = client.get_channel(739438637661421579)
+        await channel.send('<:nicewave:741982210630090763> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
         
     if now == '15:29':
         channel = client.get_channel(CHANNEL_ID)
@@ -498,6 +606,10 @@ async def loop():
     if now == '15:40':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 77 @JPYN member') 
+        
+    if now == '15:48':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
 
     if now == '15:57':
         channel = client.get_channel(CHANNEL_ID)
@@ -522,6 +634,10 @@ async def loop():
     if now == '17:02':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 777') 
+        
+    if now == '17:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
       
     if now == '17:45':
         channel = client.get_channel(CHANNEL_ID)
@@ -542,6 +658,10 @@ async def loop():
     if now == '19:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://cdn.discordapp.com/attachments/698482526565564436/700566115897835571/jpyn-rain.gif') 
+        
+    if now == '19:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
         
     if now == '20:40':
         channel = client.get_channel(CHANNEL_ID)
@@ -567,6 +687,10 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')
         
+    if now == '21:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+        
     if now == '22:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:gal_p:733138011109326940> Hello All⭐')
@@ -582,6 +706,18 @@ async def loop():
     if now == '23:30':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:gal_p:733138011109326940> Hello All⭐')
+        
+    if now == '23:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+
+    if now == '23:49':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:nicewave:741982210630090763> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+
+    if now == '23:56':
+        channel = client.get_channel(739438637661421579)
+        await channel.send('<:nicewave:741982210630090763> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
     
     if now == '23:57':
         channel = client.get_channel(CHANNEL_ID)
