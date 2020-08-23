@@ -740,6 +740,22 @@ async def on_message(message):
     if message.content == "<:hello1:713004241131667528> <:hello1:713004241131667528>":
         # チャンネルへメッセージを送信
         await message.channel.send(f"<:hello1:713004241131667528>")  # f文字列（フォーマット済み文字列リテラル）
+
+    if message.content == "<:yubi_xjp:743064854260220003> <:nerd_girl_xjp:743064228105289779> <:yubi_xjp:743064854260220003>":
+        # チャンネルへメッセージを送信
+        await message.channel.send(f"<:yubi_xjp:743064854260220003> <:maskedsxjp:743062104378048522> <:yubi2_xjp:744194861233864797>")  # f文字列（フォーマット済み文字列リテラル）
+        
+    if message.content == "<:yeah:741977175518871692> <:yeah:741977175518871692> <:yeah:741977175518871692>":
+        # チャンネルへメッセージを送信
+        await message.channel.send(f"<:yubi_xjp:743064854260220003> <:nerd_girl_xjp:743064228105289779> <:yubi_xjp:743064854260220003> <:yeah:741977175518871692>")  # f文字列（フォーマット済み文字列リテラル）
+        
+    if message.content == "<:manythanks:741988787680313364> <:manythanks:741988787680313364> <:manythanks:741988787680313364>":
+        # チャンネルへメッセージを送信
+        await message.channel.send(f"<:goodluck:741992805207113779> <:nicewave:741982210630090763> <:goodluck:741992805207113779>")  # f文字列（フォーマット済み文字列リテラル）
+        
+    if message.content == "<:otsu_1:744125871236841502> <:otsu_1:744125871236841502> <:otsu_1:744125871236841502>":
+        # チャンネルへメッセージを送信
+        await message.channel.send(f"<:otsu_1:744125871236841502> <:hello:741989920771538944> <:thank_you:741987635450609686>")  # f文字列（フォーマット済み文字列リテラル）
         
     if message.content == "<:thank_you:741987635450609686> <:thank_you:741987635450609686> <:thank_you:741987635450609686>":
         # チャンネルへメッセージを送信
@@ -767,7 +783,7 @@ async def on_message(message):
 
     if message.content == "<:happy:723835203717562418> <:happy:723835203717562418> <:happy:723835203717562418>":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"<:happy:723835203717562418> <:goodluck:724101036255608852> <:goodfriend:731381691192574022> ")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f"<:happy:723835203717562418> <:goodluck:724101036255608852> <:goodfriend:731381691192574022>")  # f文字列（フォーマット済み文字列リテラル）
         
     if message.content == "ThankYou!":
         # チャンネルへメッセージを送信
