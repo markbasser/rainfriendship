@@ -206,6 +206,10 @@ async def loop():
     if now == '03:42':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:pos:727132210917933067> <:getoken:727508044619055174> <:BEAN:727155584377290853>')
+        
+    if now == '03:43':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('🌊Wave&⛈RainやTipを受け取ったら、テキストかスタンプでお礼を伝えましょう！<:thank_you:741987635450609686> ')    
       
     if now == '03:44':
         channel = client.get_channel(CHANNEL_ID)
@@ -219,11 +223,11 @@ async def loop():
         channel = client.get_channel(739463355864973342)
         await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4')  
 
-    if now == '13:47':
+    if now == '03:47':
         channel = client.get_channel(741553045481062461)
         await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4') 
 
-    if now == '13:48':
+    if now == '03:48':
         channel = client.get_channel(739438637661421579)
         await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4')  
         
@@ -310,6 +314,18 @@ async def loop():
     if now == '06:05':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://media.tenor.com/images/c5f2a0c3417e2ca71499650d107f538b/tenor.gif') 
+        
+    if now == '06:40':
+        channel = client.get_channel(739463355864973342)
+        await channel.send('https://cdn.discordapp.com/attachments/741585316703633419/747050967706501140/surfinggirl005.gif')  
+
+    if now == '06:42':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('https://cdn.discordapp.com/attachments/741585316703633419/747050967706501140/surfinggirl005.gif') 
+
+    if now == '06:44':
+        channel = client.get_channel(739438637661421579)
+        await channel.send('https://cdn.discordapp.com/attachments/741585316703633419/747050967706501140/surfinggirl005.gif')  
         
     if now == '06:50':
         channel = client.get_channel(741553045481062461)
@@ -445,15 +461,15 @@ async def loop():
 
     if now == '10:40':
         channel = client.get_channel(739463355864973342)
-        await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4')  
+        await channel.send('https://tenor.com/view/yes-oh-swell-ocean-waves-gif-13193756')  
 
     if now == '10:42':
         channel = client.get_channel(741553045481062461)
-        await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4') 
+        await channel.send('https://tenor.com/view/yes-oh-swell-ocean-waves-gif-13193756') 
 
     if now == '10:44':
         channel = client.get_channel(739438637661421579)
-        await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4')  
+        await channel.send('https://tenor.com/view/yes-oh-swell-ocean-waves-gif-13193756')  
         
     if now == '10:45':
         channel = client.get_channel(741553045481062461)
@@ -478,6 +494,14 @@ async def loop():
     if now == '11:47':
         channel = client.get_channel(741553045481062461)
         await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+        
+    if now == '11:49':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+        
+    if now == '11:55':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('🌊Wave&⛈RainやTipを受け取ったら、テキストかスタンプでお礼を伝えましょう！<:thank_you:741987635450609686> ')    
     
     if now == '12:05':
         channel = client.get_channel(CHANNEL_ID)
@@ -494,6 +518,10 @@ async def loop():
     if now == '12:08':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
+        
+    if now == '12:15':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
         
     if now == '12:29':
         channel = client.get_channel(CHANNEL_ID)
@@ -553,7 +581,11 @@ async def loop():
    
     if now == '13:15':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:jpxdis1:710400520434745425> <:jpxdis1:710400520434745425> <:jpxdis1:710400520434745425>')  
+        await channel.send('<:jpxdis1:710400520434745425> <:jpxdis1:710400520434745425> <:jpxdis1:710400520434745425>')
+        
+    if now == '13:15':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
         
     if now == '13:16':
         channel = client.get_channel(CHANNEL_ID)
@@ -613,7 +645,15 @@ async def loop():
 
     if now == '13:57':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')      
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
+        
+    if now == '13:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+
+    if now == '13:49':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
         
     if now == '14:12':
         channel = client.get_channel(CHANNEL_ID)
@@ -687,6 +727,14 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')
         
+    if now == '16:45':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+        
+    if now == '13:14':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('🌊Wave&⛈RainやTipを受け取ったら、テキストかスタンプでお礼を伝えましょう！<:thank_you:741987635450609686>  ')    
+   
     if now == '17:01':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 77 @JPYN member')   
@@ -769,15 +817,15 @@ async def loop():
 
     if now == '23:40':
         channel = client.get_channel(739463355864973342)
-        await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4')  
+        await channel.send('https://cdn.discordapp.com/attachments/741585316703633419/747050967706501140/surfinggirl005.gif')  
 
     if now == '23:42':
         channel = client.get_channel(741553045481062461)
-        await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4') 
+        await channel.send('https://cdn.discordapp.com/attachments/741585316703633419/747050967706501140/surfinggirl005.gif') 
 
     if now == '23:44':
         channel = client.get_channel(739438637661421579)
-        await channel.send('https://media.tenor.co/videos/407f487b3fde96eede591c1b04e4a353/mp4')  
+        await channel.send('https://cdn.discordapp.com/attachments/741585316703633419/747050967706501140/surfinggirl005.gif')  
         
     if now == '23:46':
         channel = client.get_channel(741553045481062461)
