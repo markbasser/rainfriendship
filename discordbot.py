@@ -741,6 +741,18 @@ async def on_message(message):
         # チャンネルへメッセージを送信
         await message.channel.send(f"<:hello1:713004241131667528>")  # f文字列（フォーマット済み文字列リテラル）
         
+    if message.content == "<:thank_you:741987635450609686> <:thank_you:741987635450609686> <:thank_you:741987635450609686> ":
+        # チャンネルへメッセージを送信
+        await message.channel.send(f"<:thank_you:741987635450609686> <:good_fr:742000494259470417> <:thank_you:741987635450609686>")  # f文字列（フォーマット済み文字列リテラル）
+
+    if message.content == "<:nicewave:741982210630090763> <:nicewave:741982210630090763> <:nicewave:741982210630090763> ":
+        # チャンネルへメッセージを送信
+        await message.channel.send(f"<:nicewave:741982210630090763> <:yeah:741977175518871692> <:nicewave:741982210630090763> ")  # f文字列（フォーマット済み文字列リテラル）
+        
+    if message.content == "<:bluezone_xjp:743062029048217600> <:bluezone_xjp:743062029048217600> <:bluezone_xjp:743062029048217600> ":
+        # チャンネルへメッセージを送信
+        await message.channel.send(f"<:deepsea:742015498241441932> <:exoticjapangogo:744381854911692971> <:deepsea:742015498241441932> ")  # f文字列（フォーマット済み文字列リテラル）
+        
     if message.content == "<:hai_kao:699072592987947117> <:gn:699792795363311676>":
         # チャンネルへメッセージを送信
         await message.channel.send(f"<:hai_kao:699072592987947117> <:gn:699792795363311676>")  # f文字列（フォーマット済み文字列リテラル）
