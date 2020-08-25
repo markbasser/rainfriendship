@@ -699,27 +699,63 @@ async def loop():
         channel = client.get_channel(741553045481062461)
         await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
         
-    if now == '14:12':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('rsoak 77 @JPYN member')  
+    if now == '13:40':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('@everyone \n https://cdn.discordapp.com/attachments/741585316703633419/747675416034017370/blue_p.png \n https://cdn.discordapp.com/attachments/741585316703633419/747675416034017370/blue_p.png')  
 
-    if now == '14:13':
+    if now == '14:05':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+    
+    if now == '14:06':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw JPYN 111 30 EquallyDistributed') 
+   
+    if now == '14:07':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw BGPT 150 30 EquallyDistributed')      
+        
+    if now == '14:08':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw BEN 3 30 EquallyDistributed')   
+    
+    if now == '14:09':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('<:goodnight:742020034318303242> <:good_fr:742000494259470417>')     
+        
+    if now == '14:10':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('<:rock:732205759462375475> <:gn:699792795363311676> <:rock:732205759462375475>')  
+
+    if now == '14:11':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 77 @JPYN member') 
    
+    if now == '14:12':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('rsoak 777 @JPYN member')      
+        
+    if now == '14:13':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('rsoak 77 @JPYN member')  
+
     if now == '14:14':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('rsoak 77 @JPYN member') 
+   
+    if now == '14:15':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 777 @JPYN member')      
     
-    if now == '14:15':
+    if now == '14:16':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 100 @JPYN member')
         
-    if now == '14:16':
+    if now == '14:17':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:bye:699863270802325604>See you! ') 
         
-    if now == '14:17':
+    if now == '14:18':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('When you receive a Rain or Tip, thank you in text or stamp!⭐ \n <:cong:719889728828342302> <:yeah1:721319707482914877> ') 
         
