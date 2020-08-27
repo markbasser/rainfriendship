@@ -77,7 +77,28 @@ async def loop():
         
     if now == '00:18':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
+        await channel.send('<:rock01:748437813631909888> <:rock_blue01:748437456852090940> <:rock01:748437813631909888>')   
+        
+    if now == '00:20':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('<:rock01:748437813631909888> :guitar: <:rock:732205759462375475> <:rock01:748437813631909888> ') 
+        
+    if now == '00:21':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock01:748437813631909888> :guitar:') 
+        
+    if now == '01:22':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock:732205759462375475> :guitar:') 
+        
+    if now == '01:23':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock_blue01:748437456852090940> :guitar:')     
+        
+    if now == '01:14':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('<:rock01:748437813631909888> <:rock_blue01:748437456852090940> <:rock01:748437813631909888>') 
+        
         
     if now == '00:40':
         channel = client.get_channel(741553045481062461)
