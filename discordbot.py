@@ -355,14 +355,34 @@ async def loop():
     if now == '07:18':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:cafe:699769671234355230>Good morning 🌎everyone. <:gm:699792760651120671> Have a nice day today! <:happy:723835203717562418>')
-
+        
+    if now == '07:20':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('<:rock01:748437813631909888> :guitar: <:rock:732205759462375475> <:rock01:748437813631909888> ') 
+        
     if now == '07:21':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock01:748437813631909888> :guitar:') 
+        
+    if now == '07:22':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock:732205759462375475> :guitar:') 
+        
+    if now == '07:23':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock_blue01:748437456852090940> :guitar:')   
+        
+    if now == '07:24':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:happy:723835203717562418> <:happy:723835203717562418>') 
         
     if now == '07:25':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://cdn.discordapp.com/attachments/698482526565564436/700566115897835571/jpyn-rain.gif') 
+        
+    if now == '07:23':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif')   
         
     if now == '07:40':
         channel = client.get_channel(741553045481062461)
@@ -407,12 +427,36 @@ async def loop():
     if now == '09:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://cdn.weeb.sh/images/SyONdUmwW.gif')
+        
+    if now == '09:20':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('<:rock01:748437813631909888> :guitar: <:rock:732205759462375475> <:rock01:748437813631909888> ') 
+        
+    if now == '09:21':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock01:748437813631909888> :guitar:') 
+        
+    if now == '09:22':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock:732205759462375475> :guitar:') 
+        
+    if now == '09:23':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('rsoak 77.7 @🌊XJP-member   <:rock_blue01:748437456852090940> :guitar:')  
+        
+    if now == '09:24':
+        channel = client.get_channel(748426878527995915)
+        await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif')   
 
     if now == '09:25':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')
         
     if now == '09:26':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif')
+        
+    if now == '09:35':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://media.tenor.com/images/c5f2a0c3417e2ca71499650d107f538b/tenor.gif') 
         
