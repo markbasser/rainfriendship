@@ -1343,7 +1343,7 @@ async def on_message(message):
         
     if message.content == "<:manythanks:741988787680313364> <:manythanks:741988787680313364> <:manythanks:741988787680313364>":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"<:goodluck:741992805207113779> <:nicewave:741982210630090763> <:goodluck:741992805207113779>")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f"<:goodluck01:766855866447167510> <:nicewave:741982210630090763> <:goodluck01:766855866447167510>")  # f文字列（フォーマット済み文字列リテラル）
         
     if message.content == "<:otsu_1:744125871236841502> <:otsu_1:744125871236841502> <:otsu_1:744125871236841502>":
         # チャンネルへメッセージを送信
@@ -1351,7 +1351,7 @@ async def on_message(message):
         
     if message.content == "<:thank_you:741987635450609686> <:thank_you:741987635450609686> <:thank_you:741987635450609686>":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"<:thank_you:741987635450609686> <:good_fr:742000494259470417> <:thank_you:741987635450609686>")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f"<:thank_you:741987635450609686> <:good_fr01:766856299031691295> <:thank_you:741987635450609686>")  # f文字列（フォーマット済み文字列リテラル）
 
     if message.content == "<:nicewave:741982210630090763> <:nicewave:741982210630090763> <:nicewave:741982210630090763>":
         # チャンネルへメッセージを送信
