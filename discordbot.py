@@ -182,6 +182,10 @@ async def loop():
     if now == '02:49':
         channel = client.get_channel(698653628176531478)
         await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+        
+    if now == '02:54':
+        channel = client.get_channel(758265143627874314)
+        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
 
     if now == '02:56':
         channel = client.get_channel(739463355864973342)
@@ -358,6 +362,14 @@ async def loop():
     if now == '06:05':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://media.tenor.com/images/c5f2a0c3417e2ca71499650d107f538b/tenor.gif') 
+        
+    if now == '06:20':
+        channel = client.get_channel(702778037003092001)
+        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        
+    if now == '06:30':
+        channel = client.get_channel(758265143627874314)
+        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
         
     if now == '06:40':
         channel = client.get_channel(739463355864973342)
@@ -646,6 +658,14 @@ async def loop():
     if now == '10:51':
         channel = client.get_channel(741553045481062461)
         await channel.send('<:hello:741989920771538944> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+        
+    if now == '10:52':
+        channel = client.get_channel(702778037003092001)
+        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        
+    if now == '10:53':
+        channel = client.get_channel(758265143627874314)
+        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
 
     if now == '10:56':
         channel = client.get_channel(739438637661421579)
@@ -817,7 +837,15 @@ async def loop():
 
     if now == '12:55':
         channel = client.get_channel(739438637661421579)
-        await channel.send('https://cdn.discordapp.com/attachments/741585316703633419/747414349315833866/surfinggirl0011.gif')  
+        await channel.send('https://cdn.discordapp.com/attachments/741585316703633419/747414349315833866/surfinggirl0011.gif') 
+        
+    if now == '12:56':
+        channel = client.get_channel(702778037003092001)
+        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        
+    if now == '12:58':
+        channel = client.get_channel(758265143627874314)
+        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
       
     if now == '13:14':
         channel = client.get_channel(CHANNEL_ID)
@@ -949,7 +977,15 @@ async def loop():
         
     if now == '13:54':
         channel = client.get_channel(748426878527995915)
-        await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif')   
+        await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif') 
+        
+    if now == '13:55':
+        channel = client.get_channel(702778037003092001)
+        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        
+    if now == '13:57':
+        channel = client.get_channel(758265143627874314)
+        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
         
     if now == '14:05':
         channel = client.get_channel(741553045481062461)
@@ -1179,13 +1215,21 @@ async def loop():
         channel = client.get_channel(748426878527995915)
         await channel.send('rsoak 77.7 @🌊XJP-member   <:rock_blue01:748437456852090940> :guitar:')  
         
-    if now == '19:04':
+    if now == '19:07':
         channel = client.get_channel(748426878527995915)
         await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif')   
         
-    if now == '19:05':
+    if now == '19:08':
         channel = client.get_channel(741553045481062461)
         await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+        
+    if now == '19:52':
+        channel = client.get_channel(702778037003092001)
+        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        
+    if now == '19:53':
+        channel = client.get_channel(758265143627874314)
+        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
         
     if now == '20:26':
         channel = client.get_channel(748426878527995915)
