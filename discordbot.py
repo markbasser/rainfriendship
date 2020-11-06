@@ -185,7 +185,7 @@ async def loop():
         
     if now == '02:54':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
 
     if now == '02:56':
         channel = client.get_channel(739463355864973342)
@@ -365,11 +365,11 @@ async def loop():
         
     if now == '06:20':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
         
     if now == '06:30':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
         
     if now == '06:40':
         channel = client.get_channel(739463355864973342)
@@ -661,11 +661,11 @@ async def loop():
         
     if now == '10:52':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
         
     if now == '10:53':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
 
     if now == '10:56':
         channel = client.get_channel(739438637661421579)
@@ -841,11 +841,11 @@ async def loop():
         
     if now == '12:56':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
         
     if now == '12:58':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
       
     if now == '13:14':
         channel = client.get_channel(CHANNEL_ID)
@@ -981,11 +981,11 @@ async def loop():
         
     if now == '13:55':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
         
     if now == '13:57':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
         
     if now == '14:05':
         channel = client.get_channel(741553045481062461)
@@ -1225,11 +1225,11 @@ async def loop():
         
     if now == '19:52':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1 @JPYN member  <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
         
     if now == '19:53':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1 @🌊XJP-member   <:dravite_blue:769341409798258709>')  
+        await channel.send('=soak 1')  
         
     if now == '20:26':
         channel = client.get_channel(748426878527995915)
