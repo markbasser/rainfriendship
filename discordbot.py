@@ -1446,14 +1446,14 @@ async def on_message(message):
         await message.channel.send(f"<:gf:721588114283298908> 💚{message.author.mention}さん💚 <:goodluck:724101036255608852> ")  # f文字列（フォーマット済み文字列リテラル）
   
     
-    elif message.content == "r/link":
+    elif message.content == "r/d":
         # リアクションアイコンを付けたい
-        q = await message.channel.send("/link ")
+        q = await message.channel.send("$deposit ")
         [await q.add_reaction(i) for i in ('⭕', '❌')]  # for文の内包表記
 
-    elif message.content == "r/language":
+    elif message.content == "r/bal":
         # リアクションアイコンを付けたい
-        q = await message.channel.send(" /language EN ")
+        q = await message.channel.send("$bal")
         [await q.add_reaction(i) for i in ('⭕', '❌')]  # for文の内包表記
               
     elif message.content == "r/accept":
