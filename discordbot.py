@@ -217,7 +217,7 @@ async def loop():
         
     if now == '02:54':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
 
     if now == '02:56':
         channel = client.get_channel(739463355864973342)
@@ -429,11 +429,11 @@ async def loop():
         
     if now == '06:20':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '06:30':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '06:40':
         channel = client.get_channel(739463355864973342)
@@ -741,11 +741,11 @@ async def loop():
         
     if now == '10:52':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '10:53':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
 
     if now == '10:56':
         channel = client.get_channel(739438637661421579)
@@ -929,11 +929,11 @@ async def loop():
         
     if now == '12:56':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '12:58':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '13:08':
         channel = client.get_channel(782529802061217792)
@@ -1085,11 +1085,11 @@ async def loop():
         
     if now == '13:55':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '13:57':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '14:05':
         channel = client.get_channel(741553045481062461)
@@ -1369,11 +1369,11 @@ async def loop():
         
     if now == '19:52':
         channel = client.get_channel(702778037003092001)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '19:53':
         channel = client.get_channel(758265143627874314)
-        await channel.send('=soak 1')  
+        await channel.send('=soak 0.01')  
         
     if now == '20:08':
         channel = client.get_channel(782529802061217792)
