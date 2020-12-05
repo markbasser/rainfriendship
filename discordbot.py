@@ -51,15 +51,31 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:pos:727132210917933067> ⛈ <:pos:727132210917933067>')   
         
-    if now == '00:09':
+    if now == '00:07':
         channel = client.get_channel(741553045481062461)
-        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> ')  
-    
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> ') 
+        
+    if now == '00:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '00:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
+    if now == '00:10':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
     if now == '00:11':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+    
+    if now == '00:12':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 500') 
     
-    if now == '00:12':
+    if now == '00:13':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
         
@@ -111,7 +127,15 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 777') 
         
-    if now == '01:01':
+    if now == '01:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '01:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
+    if now == '01:10':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
 
@@ -165,7 +189,15 @@ async def loop():
 
     if now == '01:56':
         channel = client.get_channel(739438637661421579)
-        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
+        await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ') 
+        
+    if now == '02:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '02:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
         
     if now == '02:10':
         channel = client.get_channel(CHANNEL_ID)
@@ -199,9 +231,25 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:pos:727132210917933067> <:getoken:727508044619055174> <:BEAN:727155584377290853>')
         
+    if now == '03:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '03:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
     if now == '03:10':
         channel = client.get_channel(741553045481062461)
         await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
+        
+    if now == '03:18':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '03:19':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
         
     if now == '03:24':
         channel = client.get_channel(CHANNEL_ID)
@@ -287,6 +335,14 @@ async def loop():
         channel = client.get_channel(731640211733479556)
         await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif')
         
+    if now == '04:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '04:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
     if now == '04:15':
         channel = client.get_channel(739438637661421579)
         await channel.send('<:deepsea:742015498241441932> <:xjp_coin:739313946045055117> <:bluezone_xjp:743062029048217600> ')  
@@ -362,6 +418,14 @@ async def loop():
     if now == '06:05':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('https://media.tenor.com/images/c5f2a0c3417e2ca71499650d107f538b/tenor.gif') 
+        
+    if now == '06:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '06:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
         
     if now == '06:20':
         channel = client.get_channel(702778037003092001)
@@ -463,6 +527,14 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 777') 
         
+    if now == '08:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '08:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
     if now == '08:30':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:goodluck:724101036255608852> ')  
@@ -546,6 +618,14 @@ async def loop():
     if now == '09:59':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:gal_p:733138011109326940> Hello,how are you❓<:yeah1:721319707482914877>  ') 
+        
+    if now == '10:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '10:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
         
     if now == '10:20':
         channel = client.get_channel(748426878527995915)
@@ -674,6 +754,14 @@ async def loop():
     if now == '11:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('🥳 <:yeah1:721319707482914877>')
+        
+    if now == '11:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '11:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
         
     if now == '11:33':
         channel = client.get_channel(741553045481062461)
@@ -846,6 +934,22 @@ async def loop():
     if now == '12:58':
         channel = client.get_channel(758265143627874314)
         await channel.send('=soak 1')  
+        
+    if now == '13:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '13:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
+    if now == '13:10':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '13:11':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
       
     if now == '13:14':
         channel = client.get_channel(CHANNEL_ID)
@@ -1043,6 +1147,22 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('When you receive a Rain or Tip, thank you in text or stamp!⭐ \n <:cong:719889728828342302> <:yeah1:721319707482914877> ') 
         
+    if now == '14:28':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '14:29':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
+    if now == '14:30':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '14:31':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
     if now == '14:40':
         channel = client.get_channel(741553045481062461)
         await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
@@ -1131,6 +1251,14 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')
         
+    if now == '16:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '16:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
     if now == '16:30':
         channel = client.get_channel(748426878527995915)
         await channel.send('rsoak 77.7 @🌊XJP-member   <:rock_blue01:748437456852090940> :guitar:')  
@@ -1159,6 +1287,14 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('rsoak 777') 
         
+    if now == '17:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '17:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
     if now == '17:40':
         channel = client.get_channel(741553045481062461)
         await channel.send('/throw XJP 0.0001111 30 EquallyDistributed  <:xjp_coin:739313946045055117>')  
@@ -1178,6 +1314,14 @@ async def loop():
     if now == '17:54':
         channel = client.get_channel(731640211733479556)
         await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif')
+        
+    if now == '18:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '18:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
         
     if now == '18:30':
         channel = client.get_channel(CHANNEL_ID)
@@ -1231,6 +1375,14 @@ async def loop():
         channel = client.get_channel(758265143627874314)
         await channel.send('=soak 1')  
         
+    if now == '20:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '20:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
+        
     if now == '20:26':
         channel = client.get_channel(748426878527995915)
         await channel.send('rsoak 77.7 @🌊XJP-member   <:rock_blue01:748437456852090940> :guitar:')  
@@ -1254,6 +1406,14 @@ async def loop():
     if now == '20:54':
         channel = client.get_channel(731640211733479556)
         await channel.send('https://media.discordapp.net/attachments/522647871451824158/713251725783597057/imageedit_2_5646955006.gif')
+        
+    if now == '21:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '21:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
            
     if now == '21:29':
         channel = client.get_channel(CHANNEL_ID)
@@ -1310,10 +1470,26 @@ async def loop():
     if now == '22:01':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('Dear japanese<:cafe:699769671234355230>Everyone🌟おはようございます!<:gm:699792760651120671>')
+        
+    if now == '22:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '22:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
 
     if now == '23:00':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('When you receive a Rain or Tip, thank you in text or stamp!⭐')        
+        await channel.send('When you receive a Rain or Tip, thank you in text or stamp!⭐')  
+        
+    if now == '23:08':
+        channel = client.get_channel(782529802061217792)
+        await channel.send('$soak 0.001')
+
+    if now == '23:09':
+        channel = client.get_channel(782530102374170644)
+        await channel.send('$soak 0.001')
     
     if now == '23:30':
         channel = client.get_channel(CHANNEL_ID)
